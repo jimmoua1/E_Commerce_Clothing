@@ -3,15 +3,16 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyAo78OvSocLaf3eADj-5t4cSNzAa1rUpps",
-  authDomain: "ecommerceclothes-4ca4e.firebaseapp.com",
-  databaseURL: "https://ecommerceclothes-4ca4e.firebaseio.com",
-  projectId: "ecommerceclothes-4ca4e",
-  storageBucket: "ecommerceclothes-4ca4e.appspot.com",
-  messagingSenderId: "601231516774",
-  appId: "1:601231516774:web:4fe5b96980c7171c71f9a7",
-  measurementId: "G-7GXCWRLNPW"
-};
+    apiKey: "AIzaSyAo78OvSocLaf3eADj-5t4cSNzAa1rUpps",
+    authDomain: "ecommerceclothes-4ca4e.firebaseapp.com",
+    databaseURL: "https://ecommerceclothes-4ca4e.firebaseio.com",
+    projectId: "ecommerceclothes-4ca4e",
+    storageBucket: "ecommerceclothes-4ca4e.appspot.com",
+    messagingSenderId: "601231516774",
+    appId: "1:601231516774:web:4fe5b96980c7171c71f9a7",
+    measurementId: "G-7GXCWRLNPW"
+  };
+
 
 firebase.initializeApp(config);
 
