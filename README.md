@@ -9,7 +9,7 @@ Including the usage of
 - Memoized
     - Optimized in Render Performance
 - Sass (For styling the Application)
-- Firebase (Basic Use since no Backend)
+- Firebase (Basic Use for storing Database since no Backend)
 - Stripe (Simple Use for Payment Testing)
 - Heroku (As Deployment)
 
