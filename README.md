@@ -3,13 +3,14 @@ This Project is a Learning Project focus on making a Clothing Shop Website. Usin
 Including the usage of 
 
 - Class/Function Components
+- Routing
 - Redux
     - Optimized Components
 - Memoized
     - Optimized in render Performance
 - Sass (For styling the Application)
 - Firebase (Basic Use since no Backend)
-- Stripe (Basic Use since no Backend)
+- Stripe (Simple Use for Payment Testing)
 - Heroku (As Deployment)
 
 Contact Page is not implemented
