@@ -7,7 +7,7 @@ Including the usage of
 - Redux
     - Optimized Components
 - Memoized
-    - Optimized in render Performance
+    - Optimized in Render Performance
 - Sass (For styling the Application)
 - Firebase (Basic Use since no Backend)
 - Stripe (Simple Use for Payment Testing)
