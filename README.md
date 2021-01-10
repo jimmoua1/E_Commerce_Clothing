@@ -15,5 +15,4 @@ Including the usage of
 
 Contact Page is not implemented
 
-Website Link
-https://j-clothing-website.herokuapp.com/
+Website Link: https://j-clothing-website.herokuapp.com/
