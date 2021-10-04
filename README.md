@@ -1,4 +1,4 @@
-This Project is a Learning Project focus on making a Clothing Shop Website. Using most of the basic fundamentals and principle of React.
+This Project is a Learning Project that focuses on making a Clothing Shop Website. Using most of the basic fundamentals and principles of React.
 
 Including the usage of 
 
